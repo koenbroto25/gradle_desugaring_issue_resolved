@@ -1,0 +1,1 @@
+# gradle_desugaring_issue_resolved
