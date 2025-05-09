@@ -1,4 +1,5 @@
 Troubleshooting coreLibraryDesugaringEnabled in Android Gradle Builds
+
 This note outlines common issues and solutions when configuring coreLibraryDesugaringEnabled in an Android project using Gradle. This feature allows you to use Java 8+ language APIs in apps that support older versions of Android.
 
 The Problem
